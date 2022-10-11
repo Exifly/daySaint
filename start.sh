@@ -1,2 +1,2 @@
 #!/bin/zsh
-env/bin/python3.9 src/main.py
+env/bin/python3 src/main.py
